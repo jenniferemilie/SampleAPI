@@ -105,7 +105,7 @@ namespace SampleApi.Repositories
 
 		public IEnumerable<SectionPOCO> GetAll()
 		{
-			throw new NotImplementedException();
+			return null;
 		}
 
 		public void Update(SectionPOCO obj)
